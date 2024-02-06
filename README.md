@@ -1,6 +1,6 @@
 ### :woman_technologist: About Me
 
-:telescope: I’m currently a final year student pursuing Bachelor's in Computer Science and Engineering
+:telescope: Software Developer
 
 :seedling: Exploring ML and Web Dev
 
