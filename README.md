@@ -6,7 +6,7 @@
 - :mailbox: Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-profile/)
 <br><br>
 
-### :hammer_and_wrench: I've worked with :
+### :hammer_and_wrench: I've worked with 
 
 - #### Web 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,12 +35,12 @@
 
 <br>
 
-### 📈 My Github Stats :
+### 📈 My Github Stats 
 
 <img  src="https://github-profile-trophy.vercel.app/?username=harshimm&theme=juicyfresh&no-bg=true" alt="harshimm"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harshimm&show_icons=true&locale=en" alt="harshimm" ></p>
 
-### ✅ My contributions :
+### ✅ My contributions 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshimm&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
