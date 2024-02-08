@@ -1,9 +1,13 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello+,+World+🌎;I'm+Harshini+!)](https://git.io/typing-svg)
 
-- :telescope: I'm currently working as a Software Developer at [IBM](https://www.ibm.com/in-en) . I'm on a tech safari, venturing into uncharted territories to broaden my skillset and propel my professional journey to new heights.
+<img src="https://github.com/harshimm/harshimm/assets/87597527/494755e6-5a68-407f-ab81-228771e752c9" align="right" width="400" height="300">
 
-- :mailbox: Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-profile/)
+:telescope: Recent graduate, currently working as a Software Developer at [IBM](https://www.ibm.com/in-en)  <br>
+🌱 I have keen interests in Open source, Web Development, Cloud and AI <br>
+👣 I'm on a tech safari, venturing into uncharted territories, to broaden my skillset and contribute as much as I can <br>
+✨ Looking forward to collaborate and build something amazing together ! <br>
+:mailbox: Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-profile/)
 <br><br>
 
 ### :hammer_and_wrench: I've worked with 
@@ -39,6 +43,7 @@
 
 <img  src="https://github-profile-trophy.vercel.app/?username=harshimm&theme=juicyfresh&no-bg=true" alt="harshimm"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harshimm&show_icons=true&locale=en" alt="harshimm" ></p>
+<br>
 
 ### ✅ My contributions 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshimm&theme=dark&background=000000)](https://git.io/streak-stats)
