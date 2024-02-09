@@ -33,8 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
   <img src="https://www.svgrepo.com/show/331567/sap.svg" title="SAP ERP" alt="SAP ERP" width="40" height="40">
-  
-
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="60" height="25">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshimm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
