@@ -3,7 +3,8 @@
 
 <img src="https://github.com/harshimm/harshimm/assets/87597527/494755e6-5a68-407f-ab81-228771e752c9" align="right" width="400" height="300">
 
-- :telescope: Recent graduate, currently working as a Software Developer at [IBM](https://www.ibm.com/in-en)  <br>
+- :telescope: Recent graduate, currently working as a Software Developer at [IBM](https://www.ibm.com/in-en) .
+If you're interested to know more, check me out on LinkedIn .<br>
 - 🌱 I have keen interests in Open source, Web Development, Cloud and AI <br>
 - 🤓 Currently I'm learning ABAP 
 - 👣 I'm on a tech safari, venturing into uncharted territories, to broaden my skillset and contribute as much as I can <br>
